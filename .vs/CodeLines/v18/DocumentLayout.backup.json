@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GithubNew\\18\\CodeLines\\11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{590ED63D-6690-4D70-B101-D1AE3D4C2A20}|CodeLines-Main\\Form11\\Form1.csproj|d:\\githubnew\\18\\codelines\\11\\codelines-main\\form11\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{590ED63D-6690-4D70-B101-D1AE3D4C2A20}|CodeLines-Main\\Form11\\Form1.csproj|solutionrelative:codelines-main\\form11\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62BD7D9A-C7FD-429E-936A-E4E82C59CDBD}|CodeLines-Main\\CodeLines.csproj|d:\\githubnew\\18\\codelines\\11\\codelines-main\\strings.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{62BD7D9A-C7FD-429E-936A-E4E82C59CDBD}|CodeLines-Main\\CodeLines.csproj|solutionrelative:codelines-main\\strings.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62BD7D9A-C7FD-429E-936A-E4E82C59CDBD}|CodeLines-Main\\CodeLines.csproj|d:\\githubnew\\18\\codelines\\11\\codelines-main\\json.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{62BD7D9A-C7FD-429E-936A-E4E82C59CDBD}|CodeLines-Main\\CodeLines.csproj|solutionrelative:codelines-main\\json.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62BD7D9A-C7FD-429E-936A-E4E82C59CDBD}|CodeLines-Main\\CodeLines.csproj|d:\\githubnew\\18\\codelines\\11\\codelines-main\\console.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{62BD7D9A-C7FD-429E-936A-E4E82C59CDBD}|CodeLines-Main\\CodeLines.csproj|solutionrelative:codelines-main\\console.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "strings.cpp",
+              "DocumentMoniker": "D:\\GithubNew\\18\\CodeLines\\11\\CodeLines-Main\\strings.cpp",
+              "RelativeDocumentMoniker": "CodeLines-Main\\strings.cpp",
+              "ToolTip": "D:\\GithubNew\\18\\CodeLines\\11\\CodeLines-Main\\strings.cpp",
+              "RelativeToolTip": "CodeLines-Main\\strings.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-30T12:19:48.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "json.cpp",
+              "DocumentMoniker": "D:\\GithubNew\\18\\CodeLines\\11\\CodeLines-Main\\json.cpp",
+              "RelativeDocumentMoniker": "CodeLines-Main\\json.cpp",
+              "ToolTip": "D:\\GithubNew\\18\\CodeLines\\11\\CodeLines-Main\\json.cpp",
+              "RelativeToolTip": "CodeLines-Main\\json.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-30T12:19:47.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "console.cpp",
+              "DocumentMoniker": "D:\\GithubNew\\18\\CodeLines\\11\\CodeLines-Main\\console.cpp",
+              "RelativeDocumentMoniker": "CodeLines-Main\\console.cpp",
+              "ToolTip": "D:\\GithubNew\\18\\CodeLines\\11\\CodeLines-Main\\console.cpp",
+              "RelativeToolTip": "CodeLines-Main\\console.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-30T12:19:46.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\GithubNew\\18\\CodeLines\\11\\CodeLines-Main\\Form11\\Form1.cs",
+              "RelativeDocumentMoniker": "CodeLines-Main\\Form11\\Form1.cs",
+              "ToolTip": "D:\\GithubNew\\18\\CodeLines\\11\\CodeLines-Main\\Form11\\Form1.cs [Design]*",
+              "RelativeToolTip": "CodeLines-Main\\Form11\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T12:19:44.749Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
