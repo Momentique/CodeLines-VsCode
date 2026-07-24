@@ -1,0 +1,6 @@
+D:\GithubNew\12\CyberFinance\Finance\CyberFinance\Form11\obj\Debug\Form1.csproj.AssemblyReference.cache
+D:\GithubNew\12\CyberFinance\Finance\CyberFinance\Form11\obj\Debug\Form1.csproj.CoreCompileInputs.cache
+D:\GithubNew\18\CodeLines\11\CodeLines-Main\Form11\obj\Debug\Form1.csproj.AssemblyReference.cache
+D:\GithubNew\18\CodeLines\11\CodeLines-Main\Form11\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\GithubNew\18\CodeLines\11\CodeLines-Main\Form11\obj\Debug\Form1.csproj.GenerateResource.cache
+D:\GithubNew\18\CodeLines\11\CodeLines-Main\Form11\obj\Debug\Form1.csproj.CoreCompileInputs.cache
